@@ -1,0 +1,7 @@
+to push in existing repo
+
+git add . (add new files)
+git commit -m ""
+git remote add origin https://github.com/repo
+git branch -M main
+git push -u origin main
